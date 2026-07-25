@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hamzakhan.gis.dev@gmail.com">mhamzakhan.be24igis@gmail.com</a>
+  <a href="mailto:hamzakhan.gis.dev@gmail.com">hamzakhan.gis.dev@gmail.com</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/mapwithhamza">github.com/mapwithhamza</a>
   &nbsp;·&nbsp;
@@ -86,7 +86,7 @@ I'm **Muhammad Hamza Khan**, a Geoinformatics Engineer from Islamabad, Pakistan.
 
 ## 📬 Get in Touch
 
-- 📧 Email: [mhamzakhan.be24igis@gmail.com](mailto:mhamzakhan.be24igis@gmail.com)
+- 📧 Email: [hamzakhan.gis.dev@gmail.com](mailto:hamzakhan.gis.dev@gmail.com)
 - 🌐 Portfolio: [mhamzakhan.vercel.app](https://mhamzakhan.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/mhamzakhan007](https://linkedin.com/in/mhamzakhan007)
 - 💻 GitHub: [github.com/mapwithhamza](https://github.com/mapwithhamza)
